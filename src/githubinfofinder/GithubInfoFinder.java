@@ -29,8 +29,7 @@ public class GithubInfoFinder {
         String url = "https://github.com/"+userName+"?tab=repositories" ; 
         demo demoBj = new demo();
         demoBj.extractInfo(url, userName);
-        
-        
+       
     }
     
 }

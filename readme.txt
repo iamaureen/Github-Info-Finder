@@ -17,3 +17,11 @@ Finished
 
 4.Reference:
 https://jsoup.org/cookbook/
+
+This is an implementation of HTML parsing using jsoup
+Features of the Code:
+Brings out information based on Github username
+(input: username of github account)
+- lists all the repository names for that user
+- lists how many commits are there for each repository
+- lists number of stars for each repository
